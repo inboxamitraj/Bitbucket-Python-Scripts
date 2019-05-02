@@ -1,6 +1,7 @@
 """
 # Author - Amit Raj
-# Description- search a string in all the bitbucket repos
+# Description- Search a string in all the Atlassian Bitbucket Server repos
+# Use Case- you could use this script to find out, which repo and project is using a certain password strings in the code
 # This is using elastic search Rest APIs to search the string
 # auth_string can be encoded from https://www.base64decode.org/
 # History: 02-05-2019 public version
